@@ -1,0 +1,7 @@
+# RAG MVP — embedding + LLM: yerel Ollama
+fastapi>=0.110.0,<1.0.0
+uvicorn[standard]>=0.27.0,<1.0.0
+chromadb>=0.4.24,<1.0.0
+pypdf>=4.0.0,<6.0.0
+python-dotenv>=1.0.0,<2.0.0
+pydantic>=2.0.0,<3.0.0

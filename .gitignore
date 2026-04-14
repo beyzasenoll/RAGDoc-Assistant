@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables (VERY IMPORTANT)
+.env
+
+# MacOS
+.DS_Store
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# ChromaDB (vector database - local)
+chroma_db/
+
+# Data files (PDFs etc.)
+data/docs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python version
+.python-version
+
+# Docker
+*.pid
+*.sock
+
+# Temporary files
+tmp/
+temp/
